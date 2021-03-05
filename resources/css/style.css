@@ -1,0 +1,126 @@
+/*  Final Project Task Manager
+ *  Francisco, Kali, Hiruy, Kanaetochi
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* Start Adding Selectors here */
+
+.navbar {
+    background-color: black;
+}
+
+.navbar-brand img {
+    width: 170px;
+    height: auto;
+}
+
+.fa-bars {
+    color: #ffc806;
+}
+
+/* Banner Section */
+
+.banner {
+    background-image: url(../img/img_banner.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+}
+
+.banner h1 {
+    color: white;
+    font-weight: 500;
+}
+
+/* CTA Section */
+
+.cta {
+    background-color: black;
+}
+
+.cta-calendar {
+    background-color: #ffc806;
+}
+
+.cta-calendar img {
+    width: 200px;
+    height: auto;
+    margin: 50px;
+}
+
+.cta-text {
+    background-color: black;
+}
+
+.cta-text h2 {
+    color: #ffc806;
+    padding: 15px 10px 10px 15px;
+}
+
+.cta-text p {
+    color: white;
+    padding: 15px 10px 10px 15px;
+}
+
+/* Form Section */
+
+.form-task h2 {
+    padding: 40px 0;
+    font-weight: 500;
+}
+
+/* Tasks Section */
+
+.task {
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.task-title,
+.task-assign,
+.task-date {
+    color: #ffc806;
+}
+
+.task-desc {
+    background-color: white;
+    margin-top: 15px;
+    /* test */
+    height: 50px;
+    overflow: auto;
+}
+
+.task-top,
+.task-bottom {
+    display: flex;
+    justify-content: space-between;
+}
+
+.task-bottom {
+    margin-top: 10px;
+}
+
+/* Footer Section */
+
+footer i {
+    color: #ffc806;
+    margin: 0 5px;
+}
