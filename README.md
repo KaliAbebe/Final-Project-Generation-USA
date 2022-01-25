@@ -1,5 +1,5 @@
 Junior Web Developer - Final Project - Task Planner Web App
-Team: Kalkidan Abebe, Francisco Scovino, Kanaetochi Okiyi, Hiruy Feleke
+Team: Kalkidan Abebe
 
 General Objectives
 
