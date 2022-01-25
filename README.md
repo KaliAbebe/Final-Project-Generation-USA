@@ -1,5 +1,4 @@
-Junior Web Developer - Final Project - Task Planner Web App
-Team: Kalkidan Abebe
+Junior Web Developer - Final Project - Task Planner Web App: Kalkidan Abebe
 
 General Objectives
 
